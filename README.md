@@ -1,7 +1,7 @@
 <p align="center">
    <a href="http://jblaha.art"><img src="https://i.imgur.com/VM9yu68.png"></a>
    <br>
-   Play it <a href="https://sloothes/sketchbook/examples/characters.html">here</a>!
+   Play it <a href="https://sloothes.com/sketchbook/examples/characters.html">here</a>!
 </p>
 
 
